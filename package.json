@@ -1,5 +1,5 @@
 {
-	"name": "Testling",
+	"name": "unit-testling",
 	"version": "0.0.1",
 	"main": "./bin/testling.js",
 	"repository": {

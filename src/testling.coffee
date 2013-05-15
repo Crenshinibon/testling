@@ -9,7 +9,6 @@ as well as the answer given here:
 http://stackoverflow.com/questions/13227489/how-can-one-get-the-file-path-of-the-caller-function-in-node-js
 ###
 
-#vm = require 'vm'
 fs = require 'fs'
 path = require 'path'
 Script = process.binding('evals').NodeScript
